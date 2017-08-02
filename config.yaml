@@ -1,0 +1,14 @@
+configVersion: 2
+name: musiclights
+displayName: Music to Lights
+description: LEDs react to your music playlist based on frequency.
+
+imageUrls: http://lawoftime.org/images/rainbow-bridge-in-heart.png
+
+galleryUrl: http://lawoftime.org/images/rainbow-bridge-in-heart.png
+
+keywords:
+  -led
+  -music
+
+categories: entertainment
